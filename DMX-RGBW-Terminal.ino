@@ -1,3 +1,11 @@
+/**
+ * DMX RGBW Terminal
+ * 
+ * bitfasching, 2017
+ * License: MIT
+ */
+
+
 // include DMX library
 #include <LeoDMX.class.h>
 
